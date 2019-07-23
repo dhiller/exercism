@@ -1,3 +1,30 @@
+Parts
+=====
+
+This repository contains solutions of the exercises from the go track of
+exercism.io. For creating the solutions framework code is provided to 
+guide the learner along the way into easing creation of a solution.
+
+Therefor the licensing of the lesson framework (external) and the 
+solution (learners work) differs.
+
+
+Lesson framework
+----------------
+
+All content (testing structures and lesson 
+enablement/boilerplate like `*_test.go`) has been downloaded from and is 
+under license of exercism.io, see 
+https://exercism.io/terms-of-service, 
+section Content Permissions and Licensing
+
+
+Solutions
+---------
+
+For the remaining work (the learners solutions) the below license is applicable.
+
+
 MIT License
 
 Copyright (c) 2019 Daniel Hiller
